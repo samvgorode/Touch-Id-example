@@ -1,0 +1,4 @@
+#Tue Dec 12 17:19:49 MSK 2017
+base.0=C\:\\Users\\dev\\Desktop\\android-FingerprintDialog-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+renamed.0=classes.dex
+file.0=C\:\\Users\\dev\\Desktop\\android-FingerprintDialog-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\7\\classes.dex
